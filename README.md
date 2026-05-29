@@ -19,9 +19,9 @@ workflows.
 | 🟣 [Morph Fast Apply](https://github.com/JRedeker/opencode-morph-fast-apply) | 8.2% | 10 | 29 | OpenCode plugin · Morph Fast Apply · TypeScript |
 | 🔵 [SharperFlow.com](https://github.com/Sharper-Flow/sharperflow.com) | 4.1% | 4 | 30 | SvelteKit · Svelte 5 · content system |
 | 🟣 [Shell Strategy](https://github.com/JRedeker/opencode-shell-strategy) | 3.0% | 3 | 4 | OpenCode instructions · non-interactive shell safety |
-| 🟢 PokeEdge API | 71.0% | 97 | 2,154 | Python · FastAPI · SQL · pricing systems |
-| 🔵 PokeEdge Web | 72.8% | 83 | 1,683 | SvelteKit · Svelte 5 · TypeScript · Bun |
-| 🟠 Corded | 25.3% | 24 | 134 | Rust · TypeScript · local-first tooling |
-| 🟡 xray | 40.0% | 10 | 68 | MCP · Playwright · SQLite · frontend evidence |
+| 🟢 [PokeEdge API](https://pokeedge.com) | 71.0% | 97 | 2,154 | Python · FastAPI · SQL · pricing systems |
+| 🔵 [PokeEdge Web](https://pokeedge.com) | 72.8% | 83 | 1,683 | SvelteKit · Svelte 5 · TypeScript · Bun |
+| 🟠 [Corded](https://sharperflow.com) | 25.3% | 24 | 134 | Rust · TypeScript · local-first tooling |
+| 🟡 [xray](https://sharperflow.com) | 40.0% | 10 | 68 | MCP · Playwright · SQLite · frontend evidence |
 
 <!--END_SECTION:product-health-->
