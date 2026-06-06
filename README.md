@@ -8,7 +8,7 @@ workflows.
 <!--START_SECTION:product-health-->
 ## Product Portfolio
 
-**12 active products** · **⭐ 255 public stars**
+**12 active products** · **⭐ 256 public stars**
 
 
 | Product | Description | Stack |
@@ -17,7 +17,7 @@ workflows.
 | 👁️ [Vision](https://github.com/Sharper-Flow/Vision-MCP-Manager) | MCP server routing and daemon management for local tooling. | Go · MCP routing · daemon architecture |
 | 🛠️ [OpenCode Advance](https://github.com/Sharper-Flow/Opencode-Advance) | OpenCode environment management with Temporal-backed supervision. | Go CLI · OpenCode env mgmt · Temporal supervision |
 | 🔎 [lgrep](https://github.com/Sharper-Flow/lgrep) | Semantic and symbol search for navigating large codebases. | Python · semantic code search · MCP |
-| 🎚️ [Model Preferences](https://github.com/JRedeker/opencode-model-preferences) | OpenCode plugin for model selection and routing preferences. | Go · OpenCode plugin |
+| 🚦 [Model Routing](https://github.com/Sharper-Flow/opencode-model-routing) | OpenCode model routing with fallback chains and TTFT-aware skips. | Go · OpenCode model routing · TUI |
 | ⚡ [Morph Fast Apply](https://github.com/JRedeker/opencode-morph-fast-apply) | Morph-powered fast apply integration for OpenCode edits. | OpenCode plugin · Morph Fast Apply · TypeScript |
 | 🌐 [SharperFlow.com](https://github.com/Sharper-Flow/sharperflow.com) | Public home for Sharper Flow products, docs, and writing. | SvelteKit · Svelte 5 · content system |
 | 🐚 [Shell Strategy](https://github.com/JRedeker/opencode-shell-strategy) | Instructions for safe, reliable non-interactive agent shell use. | OpenCode instructions · non-interactive shell safety |
